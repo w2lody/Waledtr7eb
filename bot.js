@@ -5,7 +5,7 @@ bot.on('guildMemberAdd', member => {
 const mohamed= member.guild.channels.get("535229239306354698");
 if(!mohamed) return;
 if(mohamed) {
-setTimeout(() => mohamed.send(`**:heartCopy: Hoşgeldiniz To Mlk. :3_~1: **`), 4000)        
+setTimeout(() => mohamed.send(`**- Hoşgeldiniz To Mlk. :umbrella:**`), 4000)        
 }
 });
 
