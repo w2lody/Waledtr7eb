@@ -2,10 +2,10 @@ const Discord = require('discord.js'),
     bot = new Discord.Client({sisableEveryone: true})
     console.log("muuuuuuuuute,");
 bot.on('guildMemberAdd', member => {
-const mohamed= member.guild.channels.get("520742855321321493");
+const mohamed= member.guild.channels.get("535229239306354698");
 if(!mohamed) return;
 if(mohamed) {
-setTimeout(() => mohamed.send(`**__# Weélcoome To Oreo ..,:crescent_moon: __**`), 4000)        
+setTimeout(() => mohamed.send(`**:heartCopy: Hoşgeldiniz To Mlk. :3_~1: **`), 4000)        
 }
 });
 
